@@ -1,2 +1,2 @@
-# domaci ukol
+# Domácí úkoly
 repozitar s domacimi ukoly
